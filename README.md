@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash
+$ initializing laithwm ...
+> loading data pipelines
+> visual modules online
+> transforming chaos into clarity
+```
 
-<!--
-**Laithwm/Laithwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+>>> import laithwm as lw
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>>> lw.profile
+{
+  "name": "Laith Waqas Mohammed",
+  "role": "Data Scientist | Visual Storyteller | Analyst",
+  "based_in": "Dublin, Ireland",
+  "specialties": [
+      "Data Visualization & Storytelling",
+      "Machine Learning & Analytics",
+      "Dashboard Design (Tableau / Power BI)"
+  ],
+  "currently": "Building data projects that make insights impossible to ignore."
+}
+```
