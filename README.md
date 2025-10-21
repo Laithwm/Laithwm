@@ -21,3 +21,5 @@ $ initializing laithwm ...
   "currently": "Building data projects that make insights impossible to ignore."
 }
 ```
+> precision in the data.  
+> personality in the story.  
