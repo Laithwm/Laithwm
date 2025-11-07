@@ -31,15 +31,19 @@ My work blends **analytics, visualization, and narrative design** — because da
 
 ---
 
-## 📂 Featured Projects
-
-🎬 **[What Drives a Movie’s Success](https://github.com/Laithwm/What-Drives-A-Movies-Success)**  
-A Tableau project analyzing what influences box-office success (1986–2016).  
-→ `Tableau`, `Data Cleaning`, `Exploratory Visualization`
+## 📂 Featured Projects  
 
 📊 **[Customer Churn Prediction](https://github.com/Laithwm/Customer-Churn-Prediction)**  
-A machine learning pipeline predicting telecom churn with EDA, feature engineering, and model tuning.  
-→ `Python`, `Scikit-learn`, `Pandas`
+Built a complete machine learning pipeline to predict telecom customer churn, including extensive data cleaning, feature engineering, and model comparison (Logistic Regression, Decision Tree, Random Forest). Achieved **~86% accuracy** and identified key churn drivers such as contract type and payment method.  
+→ `Python` · `Scikit-learn` · `Pandas` · `Seaborn` · `EDA` · `Classification`  
+
+🚦 **[Dublin Traffic Volume Prediction](https://github.com/Laithwm/Dublin-Traffic-ML)**  
+Applied regression models on **Smart Dublin SCATS** data (500k+ rows) to predict hourly vehicle volume. Implemented preprocessing pipelines, RFECV feature selection, and 10-fold cross-validation. **Gradient Boosting (R²=0.46)** achieved the best results, revealing strong temporal and spatial traffic patterns.  
+→ `Python` · `Scikit-learn` · `Feature Engineering` · `Regression` · `Smart City Data`  
+
+📈 **[AAPL Stock Price Forecasting](https://github.com/Laithwm/AAPL-Stock-Price-Forecasting)**  
+Forecasted Apple’s closing stock prices using **ARIMA, SARIMA, and LSTM** models. Compared statistical vs deep learning approaches on real-world financial data, where **LSTM reduced RMSE by 2.5×** compared to ARIMA.  
+→ `Python` · `TensorFlow/Keras` · `Statsmodels` · `Time Series Forecasting` · `Deep Learning`
 
 ---
 
